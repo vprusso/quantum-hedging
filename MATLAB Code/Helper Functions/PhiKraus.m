@@ -11,7 +11,7 @@ function [ Phi ] = PhiKraus( A, num_tests )
 %   function (which is some basis vector). 
 % References:
 %     [1] "Quantum hedging in two-round prover-verifier interactions"
-%          ()
+%          (http://arxiv.org/abs/1310.7954)
 %     [2] "Hedging bets with correlated quantum strategies"
 %         (arXiv:1104.1140)
 %
