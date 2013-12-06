@@ -2,9 +2,9 @@
 
 MATLAB scripts that implement the semidefinite program used in the papers:
 
-[MW12] A. Molina and J. Watrous, Hedging bets with correlated quantum strategies. [arxiv:1104.1140] [1]
+[MW12] A. Molina and J. Watrous, Hedging bets with correlated quantum strategies. [arXiv:1310.7954v2] [1]
 
-[AMR13] S. Arunachalam, A. Molina, and V. Russo, Quantum hedging in the presence of protocol errors [2]
+[AMR13] S. Arunachalam, A. Molina, and V. Russo, Quantum hedging in the presence of protocol errors [arxiv:1104.1140][2]
 
 Tested with MATLAB 7.10.0 (R2010a)
 
